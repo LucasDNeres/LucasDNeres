@@ -18,7 +18,9 @@ Sou um entusiasta da tecnologia, sempre em busca de aprender algo novo e criar s
 ---
 
 ### 🤖 Linguagens e Tecnologias
+
 <br>
+
 <img 
     align="left" 
     alt="HTML"
