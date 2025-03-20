@@ -18,9 +18,6 @@ Sou um entusiasta da tecnologia, sempre em busca de aprender algo novo e criar s
 ---
 
 ### 🤖 Linguagens e Tecnologias
-
-<br>
-
 <img 
     align="left" 
     alt="HTML"
@@ -111,8 +108,8 @@ Sou um entusiasta da tecnologia, sempre em busca de aprender algo novo e criar s
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<br/>
-<br/>
+<br>
+<br>
 
 ---
 
